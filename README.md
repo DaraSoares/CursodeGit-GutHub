@@ -1,2 +1,4 @@
-# CursodeGit-GutHub
- Curso em video de Git e GitHub
+# Curso de Git e GitHub 
+### Aprendendo os conceitos de Git e Git Hub.
+
+  
